@@ -25,6 +25,9 @@ IMPORTANT: You may need to close and restart your shell after running 'conda ini
 ````
 
 
+#注意：文件格式必须为fna，不然会报错找不到bin
+对于多个基因组进行检测，则：（耗时长，需要等）
+checkm lineage_wf /home/rxd2018/chekM/L.eligens_Genomes_bin/ /home/rxd2018/chekM/L.eligens_Genomes_bin-rslt/
 
 比如把fna基因组文件放在某个位置，然后进行：
 
